@@ -7,7 +7,7 @@
 ### 🧭 About Me
 - 🎓 MCA student passionate about **Machine Learning, AI, and Data science**  
 - 💬 I love applying **ML** to real-world problems and transforming complex data into meaningful insights and practical solutions.  
-- 🌱 Continuously learning **Deep Learning, Reinforcement Learning, and Data Analytics** to expand my AI expertise.   
+- 🌱 Continuously learning **Deep Learning and Data Analytics** to expand my AI expertise.   
 - ⚡ Aspiring to contribute to impactful projects in **AI, Data Science, and Software Development**.
 
 ---
