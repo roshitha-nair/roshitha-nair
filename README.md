@@ -53,7 +53,7 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:roshithanair2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/roshitha-nair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/roshitha-b-nair-468106225"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://relic-timbale-07e.notion.site/Roshitha-B-Nair-20f3d117489b8031a5e5ce6a5b4d7c89?pvs=143"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </p>
 
